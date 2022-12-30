@@ -15,6 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O login-animado é uma página de acesso.
 
-- [Acesse o projeto finalizado, online](https://ricantony6.github.io/loginanimado)
+- [Acesse o projeto finalizado, online](https://ricantony6.github.io/Login-animado/)
 
 ♥ Ricardo Antonio Rodrigues
