@@ -35,3 +35,23 @@ body {
 .form-wrapper.is-active {
     animation: showLayer .3s ease-in forwards;
 }
+
+@keyframes showLayer {
+    50% {
+        z-index: 1;
+    }
+
+    100% {
+        z-index: 1;
+    }
+}
+
+@keyframes hideLayer {
+    0% {
+        z-index: 1;
+    }
+
+    49.999% {
+        z-index: 1;
+    }
+}
